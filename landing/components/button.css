@@ -1,0 +1,35 @@
+.btn-medium {
+  color: white;
+  border: 1px solid #999999;
+  padding: 13px 22px;
+  border-radius: 50px;
+  font-weight: bolder;
+  opacity: 2;
+  text-align: center;
+}
+.btn-medium:hover {
+  opacity: 5;
+  text-decoration: bold;
+  color: blue;
+}
+.btn-treehouse {
+  color: blue;
+  padding: 10px 15px;
+  border-radius: 4px;
+  font-weight: bold;
+  background: #6AD58B;
+  transition: background 0.3s ease;
+}
+.btn-treehouse:hover {
+  opacity: 1;
+  background: #3ac162;
+  text-decoration: none;
+  color: white;
+
+}
+
+
+.a {
+  align-items: center;
+}
+/* Build your own button classes ! */
